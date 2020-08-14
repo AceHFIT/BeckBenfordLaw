@@ -1,0 +1,6 @@
+c:\users\gytsb\documents\visual studio 2015\Projects\BenfordsLaw\BenfordsLaw\bin\Debug\BenfordsLaw.exe.config
+c:\users\gytsb\documents\visual studio 2015\Projects\BenfordsLaw\BenfordsLaw\bin\Debug\BenfordsLaw.exe
+c:\users\gytsb\documents\visual studio 2015\Projects\BenfordsLaw\BenfordsLaw\bin\Debug\BenfordsLaw.pdb
+c:\users\gytsb\documents\visual studio 2015\Projects\BenfordsLaw\BenfordsLaw\obj\Debug\BenfordsLaw.csprojResolveAssemblyReference.cache
+c:\users\gytsb\documents\visual studio 2015\Projects\BenfordsLaw\BenfordsLaw\obj\Debug\BenfordsLaw.exe
+c:\users\gytsb\documents\visual studio 2015\Projects\BenfordsLaw\BenfordsLaw\obj\Debug\BenfordsLaw.pdb
